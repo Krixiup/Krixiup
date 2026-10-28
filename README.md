@@ -21,12 +21,12 @@ Building and shipping production grade games & working on open source projects.
 
 ### `whoami`
 
-```js
-const krixiup = {
-    interests: ["Game Development", "Open Source"],
-    currently: "Building games and cool things",
-    motto: "Turning coffee into code."
-};
+```lua
+export type krixiup = {
+    experience: "6+ years",
+    interests: { "Game Development", "Open Source" },
+    currently: "Building something cool",
+}
 ```
 
 ### `git stats`

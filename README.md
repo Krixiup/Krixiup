@@ -23,7 +23,7 @@ Building and shipping production grade games on Roblox & contributing to open so
 
 ```luau
 export type krixiup = {
-    age : `17`,
+    age : 17,
     experience : `6+ years`,
     interests : { `Game Development`, `Open Source` },
     currently : `Building something cool`,

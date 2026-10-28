@@ -23,9 +23,9 @@ Building and shipping production grade games & working on open source projects.
 
 ```luau
 export type krixiup = {
-    experience: "6+ years",
-    interests: { "Game Development", "Open Source" },
-    currently: "Building something cool",
+    experience : `6+ years`,
+    interests : { `Game Development`, `Open Source` },
+    currently : `Building something cool`,
 }
 ```
 

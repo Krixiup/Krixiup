@@ -38,6 +38,22 @@ export type krixiup = {
 
 ---
 
+
+<div align="center">
+
+<a href="https://discord.com/users/795482935846895617">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://www.roblox.com/home">
+  <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" alt="Roblox">
+</a>
+<a href="https://x.com/krixiup">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+</a>
+
+</div>
+
+
 <div align="center">
 
 `stay humble`

@@ -23,6 +23,7 @@ Building and shipping production grade games on Roblox and contributing to open 
 
 ```luau
 export type krixiup = {
+    age : `17`,
     experience : `6+ years`,
     interests : { `Game Development`, `Open Source` },
     currently : `Building something cool`,
@@ -45,6 +46,6 @@ export type krixiup = {
 
 <br>
 
-*Stay hungry. Stay humble.*
+*Nobody will do it for you.*
 
 </div>

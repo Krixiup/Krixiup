@@ -40,6 +40,6 @@ export type krixiup = {
 
 <div align="center">
 
-`while (alive) { build(); learn(); repeat(); }`
+`stay humble`
 
 </div>

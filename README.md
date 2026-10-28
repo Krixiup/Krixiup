@@ -22,14 +22,14 @@ Building and shipping production grade games on Roblox & contributing to open so
 ### `whoami`
 
 ```luau
-export type Krixiup = {
+export type Developer = {
     age : number,
     experience : string,
     interests : { string },
     currently : string,
 }
 
-const me : Krixiup = {
+const me : Developer = {
     age = 17,
     experience = `6+ years`,
     interests = {

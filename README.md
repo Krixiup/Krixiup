@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Hello, World! I'm Krixiup 👋
 
 **Self-taught programmer · 6 years of experience**
 
-Building and shipping production grade games & working on open source projects.
+Building and shipping production-grade games on Roblox and contributing to open-source projects.
 
 <br>
 
@@ -12,7 +12,7 @@ Building and shipping production grade games & working on open source projects.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://www.buymeacoffee.com/krixiup">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
 </a>
 
 </div>
@@ -29,15 +29,7 @@ export type krixiup = {
 }
 ```
 
-### `git stats`
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Krixiup&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B8B8B&icon_color=8B8B8B&text_color=8B8B8B&rank_icon=github" alt="GitHub Statistics">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krixiup&layout=compact&hide_border=true&bg_color=00000000&title_color=8B8B8B&text_color=8B8B8B" alt="Most Used Languages">
-</div>
-
 ---
-
 
 <div align="center">
 
@@ -51,11 +43,8 @@ export type krixiup = {
   <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
 </a>
 
-</div>
+<br>
 
-
-<div align="center">
-
-`stay humble`
+*Stay hungry. Stay humble.*
 
 </div>

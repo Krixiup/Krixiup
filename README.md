@@ -4,7 +4,7 @@
 
 **Self taught programmer · 6 years of experience**
 
-Building and shipping production grade games on Roblox and contributing to open source projects.
+Building and shipping production grade games on Roblox & contributing to open source projects.
 
 <br>
 

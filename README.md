@@ -21,7 +21,7 @@ Building and shipping production grade games & working on open source projects.
 
 ### `whoami`
 
-```lua
+```luau
 export type krixiup = {
     experience: "6+ years",
     interests: { "Game Development", "Open Source" },

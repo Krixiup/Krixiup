@@ -2,9 +2,9 @@
 
 # Hello, World! I'm Krixiup 👋
 
-**Self-taught developer · 6 years of experience**
+**Self-taught programmer · 6 years of experience**
 
-Building and shipping Roblox games, open-source projects, and ideas worth bringing to life.
+Building and shipping production grade games & working on open source projects.
 
 <br>
 

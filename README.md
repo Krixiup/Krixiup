@@ -1,6 +1,6 @@
 # Hello World! I'm Krixiup 👋
 
-## 👨‍💻 Current Work
+## 🟢 Activity
 - **Building and shiping production grade games**
 - **Creating open source projects**
 
